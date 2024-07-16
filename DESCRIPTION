@@ -2,8 +2,7 @@ Package: MLHelper
 Type: Package
 Title: Machine Learning Helper Functions
 Version: 0.1.0
-Author@R: 
-    person("Adrian", "Weghorst", , "Adrian.Weghorst@campus.lmu.de", role = c("aut", "cre"))
+Author: Adrian Weghorst
 Maintainer: Adrian Weghorst <Adrian.Weghorst@campus.lmu.de>
 Description: Provides helper functions for machine learning workflows, 
              including data splitting, cross-validation, model training, 
