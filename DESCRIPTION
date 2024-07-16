@@ -1,0 +1,20 @@
+Package: MLHelper
+Type: Package
+Title: Machine Learning Helper Functions
+Version: 0.1.0
+Author@R: 
+    person("Adrian", "Weghorst", , "Adrian.Weghorst@campus.lmu.de", role = c("aut", "cre"))
+Maintainer: Adrian Weghorst <Adrian.Weghorst@campus.lmu.de>
+Description: Provides helper functions for machine learning workflows, 
+             including data splitting, cross-validation, model training, 
+             prediction, evaluation metrics, and feature importance plotting.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports:
+    stats,
+    rpart,
+    ggplot2,
+    caret,
+    lattice
+RoxygenNote: 7.3.2
